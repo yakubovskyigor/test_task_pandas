@@ -6,7 +6,7 @@ ___
 You can install this app on your working machine from source code:
 ```bash
 # Step -- 1.
-git clone --depth=1 --branch=main 'https://github.com/yakubovskyigor/test_app_pandas.git'
+git clone --depth=1 --branch=master 'https://github.com/yakubovskyigor/test_app_pandas.git'
 
 # Step -- 2.
 cd ./test_app_pandas/
